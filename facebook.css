@@ -181,3 +181,45 @@ height: 20px;
             border-color: #3b6e22 #3b6e22 #2c5115;
         
      }
+     .footer{
+         margin: 30px;
+        
+     }
+
+
+
+
+.footer li {
+    display: inline;
+}
+.top{
+    margin-bottom: 30px;
+}
+.fb footer hr{
+    border-top: 1px;
+    border: 0;
+    color:  #e5e5e5;
+}
+hr{
+    color: #e5e5e5;
+}
+.footer ul li a {
+    text-decoration: none;
+    width: 6%;
+    display: inline-block;
+    line-height: 1.5;
+    font-size: 12px;
+    color: #365899;
+
+}
+.bottom{
+    margin:30px ;
+} .footer ul li a:hover{
+    text-decoration: underline;
+
+}
+.top ul li :last-child a {
+    border: 1px ;
+
+
+}
